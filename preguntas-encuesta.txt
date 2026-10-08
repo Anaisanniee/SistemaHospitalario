@@ -1,0 +1,56 @@
+Este archivo contiene las preguntas de una encuentas que será hecha de google forms 
+y enviada a la población muestra dentro de la comunidad de Bohórquez.
+
+La población muestra inicial será de 30 a 50 personas para empezar con el estudio.
+Se extenderá dependoendo de el crecimiento del alcance que se quiera lograr.
+
+Se enviará el formulario a persna mayores de entre 18 y 45 años del corregimiento de bohorquez
+
+PREGUNTAS
+
+Título:* Encuesta sobre el acceso a citas médicas en Bohórquez Atlántico
+
+*Introducción:* 
+"
+Esta encuesta busca conocer cómo piden hoy las personas sus citas médicas 
+y qué les gustaría mejorar. Sus respuestas son anónimas y confidenciales. 
+Gracias por su tiempo."
+
+*Preguntas:*
+
+1.¿Cómo pidió su última cita médica?
+   - Físicamente en el hospital / centro de salud
+   - Por teléfono
+   - Por página web o aplicación
+   - No he pedido cita recientemente
+
+2. Describa brevemente el paso a paso de cómo lo hizo (respuesta abierta)
+
+3. ¿Cuánto tardó en conseguir la cita?
+   - El mismo día
+   - Entre 1 y 3 días
+   - Entre 1 y 2 semanas
+   - Más de 2 semanas
+
+4. ¿Está conforme con ese proceso?
+   - Sí
+   - No
+   - Parcialmente
+
+5. ¿Le gustaría poder pedir citas desde el celular?
+   - Sí
+   - No
+   - Ya lo hago
+
+6. ¿Le gustaría poder tener una consulta médica por videollamada (telemedicina) sin tener que desplazarse?
+   - Sí
+   - No
+   - Tal vez
+
+7. Si existiera una solución así, ¿la usaría? ¿Y su familia?
+   - Sí, la usaría yo y mi familia
+   - Solo yo
+   - No la usaría
+
+8. ¿Hay algo más que le gustaría decir sobre cómo funcionan las citas médicas en su zona? (respuesta abierta, opcional)
+
