@@ -19,10 +19,15 @@ return new class extends Migration
             $table->string('second_last_name')->nullable();
             $table->string('identification')->unique();
             $table->string('email')->unique();
+
+
+            $table->unsignedBigInteger('ROL_ID');
+
             $table->timestamp('email_verified_at')->nullable();
-            $table->string('password');
+            $table->string('password'); //contraseña
             $table->rememberToken();
             $table->timestamps();
+ 
         });
 
         Schema::create('password_reset_tokens', function (Blueprint $table) {
